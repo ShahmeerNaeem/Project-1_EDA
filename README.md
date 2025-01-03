@@ -1,4 +1,4 @@
-Exploratory Data Analysis (EDA): 
+**Exploratory Data Analysis (EDA): **
 Credit Card Fraud Detection
 
 I’ve recently completed an EDA project on a Credit Card Fraud Detection Dataset, focusing on identifying patterns in fraudulent transactions, Here’s what I uncovered:
