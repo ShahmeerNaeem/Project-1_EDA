@@ -36,7 +36,9 @@ I’ve recently completed an EDA project on a Credit Card Fraud Detection Datase
 
 **Dataset Details:**
 
-	• Dataset Name: Credit Card Fraud Detection Dataset
-	• Source: Kaggle -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Dataset Name: Credit Card Fraud Detection Dataset
+
+Source: Kaggle -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
  
-This was a foundational project for me, and it’s been super insightful! I’m looking forward to exploring more complex datasets and tackling advanced projects in the future
+**This was a foundational project for me, and it’s been super insightful! I’m looking forward to exploring more complex datasets and tackling advanced projects in the future**
