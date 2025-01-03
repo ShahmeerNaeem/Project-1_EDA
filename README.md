@@ -1,5 +1,5 @@
-**Exploratory Data Analysis (EDA):**
-Credit Card Fraud Detection
+# **Exploratory Data Analysis (EDA):**
+**Credit Card Fraud Detection**
 
 I’ve recently completed an EDA project on a Credit Card Fraud Detection Dataset, focusing on identifying patterns in fraudulent transactions, Here’s what I uncovered:
 
@@ -34,4 +34,9 @@ I’ve recently completed an EDA project on a Credit Card Fraud Detection Datase
 	•	Bar Chart: A simple fraud vs. legitimate bar chart didn’t work well due to the huge class imbalance
 	•	Correlation Analysis: Heatmaps didn’t add much value here, so scatter plots worked better for exploring relationships between numerical features
 
+**Dataset Details:**
+
+	• Dataset Name: Credit Card Fraud Detection Dataset
+	• Source: Kaggle -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+ 
 This was a foundational project for me, and it’s been super insightful! I’m looking forward to exploring more complex datasets and tackling advanced projects in the future
